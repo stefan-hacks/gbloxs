@@ -1,3 +1,4 @@
+# UNDER CONSTRUCTION - NOT READY YET
 # Gbloxs - Interactive Terminal Blocks
 
 A powerful, interactive terminal application inspired by Warp Terminal, built with Charmbracelet's Bubble Tea, Lip Gloss, and Bubbles frameworks. Gbloxs provides a modern, block-styled terminal interface with full interactivity, colorization, and advanced features.
